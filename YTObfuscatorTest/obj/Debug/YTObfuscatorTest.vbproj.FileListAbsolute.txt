@@ -1,0 +1,20 @@
+c:\users\kyle\documents\visual studio 2015\Projects\YTObfuscatorTest\YTObfuscatorTest\bin\Debug\YTObfuscatorTest.exe
+c:\users\kyle\documents\visual studio 2015\Projects\YTObfuscatorTest\YTObfuscatorTest\bin\Debug\YTObfuscatorTest.pdb
+c:\users\kyle\documents\visual studio 2015\Projects\YTObfuscatorTest\YTObfuscatorTest\bin\Debug\YTObfuscatorTest.xml
+c:\users\kyle\documents\visual studio 2015\Projects\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.vbprojResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2015\Projects\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.Form1.resources
+c:\users\kyle\documents\visual studio 2015\Projects\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.Resources.resources
+c:\users\kyle\documents\visual studio 2015\Projects\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.vbproj.GenerateResource.Cache
+c:\users\kyle\documents\visual studio 2015\Projects\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.exe
+c:\users\kyle\documents\visual studio 2015\Projects\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.xml
+c:\users\kyle\documents\visual studio 2015\Projects\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.pdb
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\batch obfuscator\YTObfuscatorTest\YTObfuscatorTest\bin\Debug\YTObfuscatorTest.exe
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\batch obfuscator\YTObfuscatorTest\YTObfuscatorTest\bin\Debug\YTObfuscatorTest.pdb
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\batch obfuscator\YTObfuscatorTest\YTObfuscatorTest\bin\Debug\YTObfuscatorTest.xml
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\batch obfuscator\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.Form1.resources
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\batch obfuscator\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.Resources.resources
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\batch obfuscator\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.vbproj.GenerateResource.cache
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\batch obfuscator\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.vbproj.CoreCompileInputs.cache
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\batch obfuscator\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.exe
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\batch obfuscator\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.xml
+C:\Users\niraj\Documents\Visual Studio 2019\SOURCE CODES\batch obfuscator\YTObfuscatorTest\YTObfuscatorTest\obj\Debug\YTObfuscatorTest.pdb
